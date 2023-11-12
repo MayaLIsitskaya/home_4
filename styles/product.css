@@ -1,0 +1,58 @@
+#product_title {
+    color:  #1f3d7a;
+    text-align: center;
+    font-size: 28px;
+}
+
+#product_image {
+    display: block;
+    margin: auto;
+
+}
+
+#product_title_description {
+    color:  #1f3d7a;
+    text-align: center;
+    font-size: 24px;
+}
+
+#product_description {
+    display: block;
+    text-align: center;
+    color:  #1f3d7a;
+    font-size: 21px;
+}
+
+.product_new_price {
+    text-align: center;
+    color:#3466cb;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.new_cost {
+    text-align: center;
+    color:#3466cb;
+    font-weight: lighter;
+    font-size: 24px;
+}
+
+.product_old_price {
+    text-align: center;
+    color: #cccccc;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: line-through;
+}
+
+.old_cost {
+    text-align: center;
+    color: #cccccc;
+    font-weight: lighter;
+    font-size: 24px;
+    text-decoration: line-through;
+}
+
+.margin {
+    margin-bottom: 2rem;
+}

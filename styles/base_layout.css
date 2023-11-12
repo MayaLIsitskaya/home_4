@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.header, .footer {
+    background-color:  #99b3e6;
+    color: white;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.title {
+    color:  #1f3d7a;
+    text-align: center;
+    font-size: 28px;
+}
+
+.navigation {
+    text-align: center;
+    font-size: 24px;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation li {
+    display: inline-block;
+    color: white;
+    padding-right: 2rem;
+}
+
+.position {
+    text-align: right;
+}
+
+.call {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    background-color:	#F0F0F0;
+
+    cursor: default;
+}
+

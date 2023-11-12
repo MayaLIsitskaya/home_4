@@ -1,0 +1,49 @@
+#container {
+    min-height: 710px;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    background-color:	#F0F0F0;
+
+    cursor: default;
+}
+
+#account {
+    width: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #404040;
+    color: #ffffff;
+    border-radius: 0.8rem;
+    text-align: center;
+    font-size: 18px;
+}
+
+#field {
+    width: 80%;
+    margin-top:1rem;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    outline: none;
+    background-color:  #cccccc;
+    border: 1px solid #cccccc;
+    border-radius: 0.4rem;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+#button {
+    background-color:  #ac39ac;
+    color: white;
+    width: 91%;
+    border-radius: 0.5rem;
+    border: 1px solid #ac39ac;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#button:hover {
+    opacity: 0.8;
+}

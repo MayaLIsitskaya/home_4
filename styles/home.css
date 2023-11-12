@@ -1,0 +1,120 @@
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    background-color:	#F0F0F0;
+
+    cursor: default;
+}
+
+.title {
+    color:  #1f3d7a;
+    text-align: center;
+    font-size: 28px;
+}
+
+.text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.image {
+    width: 100%;
+}
+
+.products_table{
+    margin-left: -2px;
+    max-width: 98%;
+}
+.products_table td{
+    background-color: #E0E0E0;
+}
+
+.product_name {
+    text-align: center;
+    color:  #1f3d7a;
+    font-size: 18px;
+}
+
+.product_image {
+    display: block;
+    margin: auto;
+}
+
+.product_description{
+    display: block;
+    text-align: center;
+    padding: 0.5rem ;
+}
+
+.text {
+    text-align: center;
+}
+
+.size_darkblue {
+    font-size: 22px;
+    color: darkblue;
+}
+
+.size_brown{
+    font-size: 19px;
+    color: brown;
+}
+
+.size_red{
+    font-size: 17px;
+    color: red;
+}
+
+.size_purple {
+    font-size: 14px;
+    color: mediumpurple;
+}
+
+.size_green {
+    font-size: 12px;
+    color: green;
+}
+
+.account {
+    width: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+
+    background: #404040;
+    color: #ffffff;
+
+    border-radius: 0.8rem;
+    text-align: center;
+
+    font-size: 18px;
+}
+
+.field {
+    width: 80%;
+    margin-top:1rem;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    outline: none;
+    background-color:  #cccccc;
+    border: 1px solid #cccccc;
+    border-radius: 0.4rem;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.button {
+    background-color:  #ac39ac;
+    color: white;
+    width: 91%;
+    border-radius: 0.5rem;
+    border: 1px solid #ac39ac;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
