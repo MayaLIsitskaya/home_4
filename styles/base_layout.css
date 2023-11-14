@@ -16,6 +16,10 @@ body{
     font-size: 28px;
 }
 
+.image {
+    width: 100%;
+}
+
 .navigation {
     text-align: center;
     font-size: 24px;
